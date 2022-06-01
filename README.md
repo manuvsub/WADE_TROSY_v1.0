@@ -13,7 +13,7 @@ Bruker Shape names
     For 5kHz RF amplitude (i.e., p1 = 50us), pulse length = 37.25*50us = 1862.5us
 
 
-3 : 'wade_pix_47.200p1_bw3.85B1.mrf'
+3 : 'wade_pix_47.200p1_bw3.85B1.mrf'\n
     Pulse length 47.2 times the 90 deg pulse length
     For 5kHz RF amplitude (i.e., p1 = 50us), pulse length = 47.2*50us = 2360us
 
