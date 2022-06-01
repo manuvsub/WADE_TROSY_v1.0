@@ -3,10 +3,10 @@ NMR pulse sequences and RF shapes for the experiments in PCCP(2022)
 WADE-TROSY Pulse sequence in Bruker format is 'wadetrosy_v5_3.mpp'. The RF shapes are listed below 
 
 | Shape Name| Operation Type  | Nuclei | Pulse Length | Max RF amplitude | Bandwidth |
-| -------------   | ------------- | ------------- | ------------- | ------------- | ------------- |
-| wade_pix_25.900p1_bw1.75B1.mrf   | WADE-π    | 1H 	| 25.9*50us = 1295us	| 5 kHz	|  |
-| wade_pix_37.250p1_bw2.82B1.mrf   | WADE-π    | 1H 	| 37.25*50us = 1862.5us	| 5 kHz	|  |
-| wade_pix_47.200p1_bw3.85B1.mrf   | WADE-π    | 1H 	| 47.2*50us = 2360us	| 5 kHz	|  |
+| ------------- | | ------------- | ------------- | ------------- | ------------- | ------------- |
+| wade_pix_25.900p1_bw1.75B1.mrf   | WADE-π    | 1H 	| 25.9*50us = 1295us	| 5 kHz	|
+| wade_pix_37.250p1_bw2.82B1.mrf   | WADE-π    | 1H 	| 37.25*50us = 1862.5us	| 5 kHz	|
+| wade_pix_47.200p1_bw3.85B1.mrf   | WADE-π    | 1H 	| 47.2*50us = 2360us	| 5 kHz	|
  
 
 
