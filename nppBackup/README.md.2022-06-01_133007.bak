@@ -6,7 +6,7 @@ The script and algorithms are patented @ https://patentcenter.uspto.gov/#!/appli
 
 
 
-WADE-TROSY Pulse sequence in Bruker format is 'wadetrosy_v1_0.mpp'. The RF shapes are listed below 
+WADE-TROSY Pulse sequence in Bruker format is 'wadetrosy_v5_3.mpp'. The RF shapes are listed below 
 
 | Shape Name| Operation Type  | Nuclei | Pulse Length factor | Pulse Length | Max RF amplitude | Bandwidth |
 | -------------   | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
@@ -16,10 +16,6 @@ WADE-TROSY Pulse sequence in Bruker format is 'wadetrosy_v1_0.mpp'. The RF shape
 | pix_7.984p1_bw0.70B1.mrf   | Amide π    | 1H 	| 7.984| 7.984*10us = 79.84us	| 25 kHz	| 0.7*B1 |
 | z2iz_4.610p1_bw0.80B1.mrf   | Inversion    | 15N 	|4.610|4.610*35us = 161.35us	| 7.1429 kHz	| 0.8*B1 |
 | pix_7.093p1_bw0.80B1.mrf   | π    | 15N 	|7.093|7.093*35us = 248.255us	| 7.1429 kHz	| 0.8*B1 |
-| z2iz_10.021p1_bw2.40B1.mrf  | Inversion    | 13C 	|10.021|10.021*12us = 12.252 us	| 20.8333 kHz	| 2.4*B1 |
-
-
-
 
 Water selectivity and bandwidth can be tuned by changing the RF power, the correponding pulse length is calculated by multiplying the 90 degree pulse length with the pulse length factor for each pulse. 
 
