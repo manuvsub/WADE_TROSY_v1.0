@@ -1,12 +1,4 @@
-NMR pulse sequences and RF shapes for the experiments in PCCP(2022)
-
-WADE-TROSY Pulse sequence : wadetrosy_v5_3.mpp
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
+RF shapes for NMR experiments used in the PCCP(2022)
 
 The shapes are in Bruker format WADE-π water suppression in Nuclear Magentic Resonance 
 
