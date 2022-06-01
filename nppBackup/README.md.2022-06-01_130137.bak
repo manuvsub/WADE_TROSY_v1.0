@@ -19,7 +19,7 @@ Water selectivity can be tuned by changing the RF power, the correponding pulse 
 
 consider the 'wade_pix_25.900p1_bw1.75B1.mrf' shape,
 
-for RF amplitude 25kHz (=> 90 pulse length = 10us), pulse length = 25.9*10us = 259 us 
+for RF amplitude 25kHz (=> 90 pulse length = 10us), pulse length = 25.9*10us = 129.5us 
 for RF amplitude 5kHz (=> 90 pulse length = 50us), pulse length = 25.9*50us = 1295us 
  
 
