@@ -21,6 +21,8 @@ WADE-TROSY Pulse sequence in Bruker format is 'wadetrosy_v1_0.mpp'. The RF shape
 
 
 
+
+
 Water selectivity and bandwidth can be tuned by changing the RF power, the correponding pulse length is calculated by multiplying the 90 degree pulse length with the pulse length factor for each pulse. 
 
 consider the 'wade_pix_25.900p1_bw1.75B1.mrf' shape,
