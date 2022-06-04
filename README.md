@@ -9,7 +9,7 @@ The script and algorithms are patented @ https://patentcenter.uspto.gov/#!/appli
 WADE-TROSY Pulse sequence in Bruker format is 'wadetrosy_v1_0.mpp'. The RF shapes are listed below 
 
 | Shape Name| Operation Type  | Nuclei | Pulse Length factor | Pulse Length |   Bandwidth | ref  PCCP(2022)|
-| -------------   | ------------- | ------------- | ------------- | ------------- | ------------- 
+| -------------   | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | wade_pix_44.017p1_bw2.35p1.mrf   | WADE-π    | 1H 	| 25.9| 25.9*50us = 1295us (@ B1 = 5kHz)	|   2.35*B1  | Figure x |
 | wade_pix_25.900p1_bw1.75B1.mrf   | WADE-π    | 1H 	| 25.9| 25.9*50us = 1295us (@ B1 = 5kHz)	|   1.75*B1  | Figure x |
 | wade_pix_37.250p1_bw2.82B1.mrf   | WADE-π    | 1H 	| 37.25| 37.25*50us = 1862.5us (@ B1 = 5kHz) 	|  2.82*B1 | Figure x |
