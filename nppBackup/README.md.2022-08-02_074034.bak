@@ -16,8 +16,8 @@ WADE-TROSY Pulse sequence in Bruker format is 'wadetrosy_v1_0.mpp'. The RF shape
 | WR3 | wade_pix_47.200p1_bw8B1.mrf   | WADE-π    | 1H 	| 47.2| 47.2*50us = 2360us (@ B1 = 5kHz)	|  8*B1 | Figure x |
 | AR1 | pix_7.984p1_bw0.70B1.mrf   | Amide π    | 1H 	| 7.984| 7.984*10us = 79.84us (@ B1 = 25kHz)	|  0.7*B1 | Figure x |
 | AI1 | z2iz_4.610p1_bw0.80B1.mrf   | Inversion    | 15N 	|4.610|4.610*35us = 161.35us (@ B1 = 7.1429kHz)	|   0.8*B1 | Figure x |
-| UR1| pix_7.093p1_bw0.80B1.mrf   | π    | 15N 	|7.093|7.093*35us = 248.255us (@ B1 = 7.1429kHz)	|   0.8*B1 | Figure x |
-| UI1| z2iz_10.021p1_bw2.40B1.mrf  | Inversion    | 13C 	|10.021|10.021*12us = 12.252 us (@ B1 = 20.8333kHz)	|  2.4*B1 | Figure x |
+| UR1 | pix_7.093p1_bw0.80B1.mrf   | π    | 15N 	|7.093|7.093*35us = 248.255us (@ B1 = 7.1429kHz)	|   0.8*B1 | Figure x |
+| UI1 | z2iz_10.021p1_bw2.40B1.mrf  | Inversion    | 13C 	|10.021|10.021*12us = 12.252 us (@ B1 = 20.8333kHz)	|  2.4*B1 | Figure x |
 
 
 
